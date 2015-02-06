@@ -78,6 +78,7 @@ def main():
         write_hash(section, theme_folder)
 
     with open(cfg_file, 'w') as configfile:
+        configfile.write('# The most recent version should be added to http://openlp.org/files/frw/download.cfg\n')
         config.write(configfile)
 
 if __name__ == '__main__':
