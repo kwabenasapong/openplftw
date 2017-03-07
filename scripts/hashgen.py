@@ -58,7 +58,11 @@ def write_hash(section, path):
 
 
 def main():
-    cfg_file = os.path.join('..', 'download.cfg')
+    cfg_file = os.path.abspath(os.path.join('..', 'download.cfg'))
+    if not os.path.exists(cfg_file):
+        print('Can\'t find download.cfg. You need to run hashgen.py from the scripts directory.')
+        return False
+
     config = ConfigParser()
     config.read(cfg_file)
 
