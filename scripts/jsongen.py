@@ -5,7 +5,7 @@
 ###############################################################################
 # OpenLP - Open Source Lyrics Projection                                      #
 # --------------------------------------------------------------------------- #
-# Copyright (c) 2008-2018 OpenLP Developers                                   #
+# Copyright (c) 2008-2019 OpenLP Developers                                   #
 # --------------------------------------------------------------------------- #
 # This program is free software; you can redistribute it and/or modify it     #
 # under the terms of the GNU General Public License as published by the Free  #
@@ -27,7 +27,7 @@ import json
 from hashlib import sha256
 from pathlib import Path
 
-CONFIG_FILE_NAME = 'download_3.0.conf'
+CONFIG_FILE_NAME = 'download_3.0.json'
 
 def hash_file(file_path, block_size=65536):
     """
@@ -54,7 +54,7 @@ def main():
     """
     cfg_file_path = Path('..', CONFIG_FILE_NAME)
     if not cfg_file_path.exists():
-        print('Can\'t find download_3.0.json. You need to run hashgen.py from the scripts directory.')
+        print(f'Can\'t find {cfg_file_path}. You need to run hashgen.py from the scripts directory.')
         return False
 
     with cfg_file_path.open(mode='r', encoding='utf-8') as config_file:
