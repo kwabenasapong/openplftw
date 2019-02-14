@@ -1,0 +1,326 @@
+{
+  "_comments": "The most recent version should be added to http://openlp.org/files/frw/download_3.0.json",
+  "_meta": {
+    "base_url": "https://get.openlp.org/ftw/",
+    "bibles_dir": "bibles",
+    "songs_dir": "songs",
+    "themes_dir": "themes"
+  },
+  "bibles": {
+    "af": {
+      "title": "Afrikaans",
+      "translations": {
+        "afr": {
+          "file_name": "Afrikaans_Bybel.sqlite",
+          "sha256": "d4f12ebbb35bf589e791200dd2f320cf89f894b53953724edb458570f47affcf",
+          "title": "Afrikaanse Bybel"
+        }
+      }
+    },
+    "ar": {
+      "title": "العربية (Arabic)",
+      "translations": {
+        "kelh": {
+          "file_name": "Ketab-EL-Hayat.sqlite",
+          "sha256": "7b5d4c46fbd77477db0503b4565f1d558f6e29cf7e7e74f2ae48fbbe14766dde",
+          "title": "Ketab EL Hayat"
+        },
+        "sp": {
+          "file_name": "Syriac_Peshitta_NT.sqlite",
+          "sha256": "a7a1ccb205e8e0c92707344e90efbf0c8e60c8ad95eeb216c8b41ce23a231eef",
+          "title": "Syriac Peshitta"
+        },
+        "vd": {
+          "file_name": "VanDyke-Without-Vowels.sqlite",
+          "sha256": "b3d216b92c62954da7b69c27eb2872b1163f49fa290a23acc6cb3274d1f68f56",
+          "title": "VanDyke Without Vowels"
+        },
+        "vdv": {
+          "file_name": "VanDyke-With-Vowels.sqlite",
+          "sha256": "c1767d8bc2e6aff9097f63f3f9a15af134841ee3fdf40267adba3263f5a6ba0f",
+          "title": "VanDyke With Vowels"
+        }
+      }
+    },
+    "cz": {
+      "title": "Čeština (Czech)",
+      "translations": {
+        "csp": {
+          "file_name": "Cesky_studijni_preklad.sqlite",
+          "sha256": "93885991c10d4ce71418c33b77cba7a321f7c66fe0d40edd7bd474160517d666",
+          "title": "Český Studijní Překlad"
+        },
+        "krl": {
+          "file_name": "Kralicka_Bible_1613.sqlite",
+          "sha256": "9d9e25e3361eeb9d550aea571aad55c4320b592ed28a4fa1cf4b0dad5ee382f4",
+          "title": "Kralická Bible 1613"
+        },
+        "prk": {
+          "file_name": "Bible_Preklad_21_stoleti.sqlite",
+          "sha256": "1fad90dc62bad7d246092dc4792eb39b89f910cf4fac0efd2bd35c69fcd89acf",
+          "title": "Bible, Překlad 21. století"
+        }
+      }
+    },
+    "de": {
+      "title": "Deutsch",
+      "translations": {
+        "145": {
+          "file_name": "Luther_1545.sqlite",
+          "sha256": "965ca4df59fc6af80472be00fb9a92e1539792b42f2f7c368d9623d057293098",
+          "title": "Luther 1545"
+        },
+        "elb": {
+          "file_name": "Elberfelder_1905.sqlite",
+          "sha256": "32cf96da94be0df237584130df7b840b82828c753db0664393d354a4c7ac246b",
+          "title": "Elberfelder"
+        },
+        "l12": {
+          "file_name": "Luther_1912.sqlite",
+          "sha256": "2606b991f3254699cd236c6420b59789238118338e2778f7ed4c494861eb05ad",
+          "title": "Luther 1912"
+        },
+        "mb": {
+          "file_name": "Menge_Bibel.sqlite",
+          "sha256": "cad8ce0974e1b1823c8830738258941c95af2cf3a79dd3eb9e27659eb02fbdf6",
+          "title": "Menge"
+        }
+      }
+    },
+    "en": {
+      "title": "English",
+      "translations": {
+        "asv": {
+          "file_name": "ASV.sqlite",
+          "sha256": "064637d15c1dd9940682460b8040f6fe1d025dd8f40637ca13c5fbdb14012d09",
+          "title": "American Standard Version"
+        },
+        "kjv": {
+          "file_name": "KJV.sqlite",
+          "sha256": "09e2d9d68777c75acc8b587b6be1f5253f86274774529e57a2902c14d9802d3d",
+          "title": "King James Version"
+        }
+      }
+    },
+    "eo": {
+      "title": "Esperanto",
+      "translations": {
+        "esb": {
+          "file_name": "Esperanto_Bible.sqlite",
+          "sha256": "58c716f18382be192a077cb85934720315847e6b168340784df896d365ca495b",
+          "title": "Esperanto Biblio"
+        }
+      }
+    },
+    "es": {
+      "title": "Español",
+      "translations": {
+        "lse": {
+          "file_name": "Las_Sagradas_Escrituras.sqlite",
+          "sha256": "c6654ef283f1139ba2b8d36238f38ad88a31b71599c79be3fad88db4350de939",
+          "title": "Las Sagradas Escrituras"
+        }
+      }
+    },
+    "fi": {
+      "title": "Suomi",
+      "translations": {
+        "fi3338": {
+          "file_name": "FI_33_38_OpenLP.sqlite",
+          "sha256": "3a3dd8b5ec16a7cf5547f13b9ce4490e83ddc032b87b9a0efb383da6ab35fd70",
+          "title": "33/38 - Vanha kirkkoraamattu"
+        },
+        "fi92": {
+          "file_name": "FI_92_OpenLP.sqlite",
+          "sha256": "c0f0b0de574c65db60daa88b5f54d514901ae7bc86cf9933478d76575016a050",
+          "title": "92 - Uusi kirkkoraamattu"
+        },
+        "firk": {
+          "file_name": "FI_Raamattu_Kansalle_OpenLP.sqlite",
+          "sha256": "6982cb2b5b1061611211e62e8910289ff8702f934ddf785b7978524d3f8f9544",
+          "title": "Raamattu Kansalle -käännös"
+        }
+      }
+    },
+    "fr": {
+      "title": "Français",
+      "translations": {
+        "lsb": {
+          "file_name": "Louis_Segon_Bible.sqlite",
+          "sha256": "8e548c384f92ee54ea46930a1547fcc574f039c3f8eaa918707f5692ceafc069",
+          "title": "Louis Segon"
+        }
+      }
+    },
+    "hu": {
+      "title": "Magyar",
+      "translations": {
+        "ma": {
+          "file_name": "Magyar_jford_t_s.sqlite",
+          "sha256": "5509b117616e64da2486b71c344a4b58ec87634d29b0ddda528185fae19779d2",
+          "title": "Magyar Újfordítású"
+        }
+      }
+    },
+    "nl": {
+      "title": "Nederlandse",
+      "translations": {
+        "sta": {
+          "file_name": "Statenvertaling.sqlite",
+          "sha256": "b2a699caff81c81ae11b705b09bfc85da832953ae28d838bef536e8a6c406822",
+          "title": "Statenvertaling"
+        }
+      }
+    },
+    "no": {
+      "title": "Nederlandse",
+      "translations": {
+        "no1921": {
+          "file_name": "Norsk-SMB-1921.sqlite",
+          "sha256": "a7afc5b77cd54eb11c9b7d20813d56e164e935cf69ee0b38ae4126ce809a5fcd",
+          "title": "Studentmållagsbibelen (1921)"
+        },
+        "no1930": {
+          "file_name": "Norsk-NB-1930.sqlite",
+          "sha256": "641a3b52ed7fb8b2027703a1f7241577929ac97f91cf18c6e0ad9c235032b9f8",
+          "title": "Norsk bokmål (1930)"
+        }
+      }
+    },
+    "pt": {
+      "title": "Português",
+      "translations": {
+        "jo": {
+          "file_name": "Jo_o_Ferreira_de_Almeida_Atualizada.sqlite",
+          "sha256": "ada5f15802a5c80cdf27ef188858d4c64e2a5d92b158c4bec7c5ca54e7cddcb1",
+          "title": "João Ferreira de Almeida Atualizada"
+        }
+      }
+    },
+    "ru": {
+      "title": "Русский",
+      "translations": {
+        "rst": {
+          "file_name": "RST.sqlite",
+          "sha256": "86cf69addcbd93ea53842916bc7b90c77154415880b04c933679ea9dac1cf976",
+          "title": "Синодальный перевод"
+        }
+      }
+    },
+    "sv": {
+      "title": "Slovak",
+      "translations": {
+        "ssv": {
+          "file_name": "Sv_t_P_smo_Katol_cky_Preklad.sqlite",
+          "sha256": "2d9ed24fe3eece4a20ecfb0228a92729d5d681bb8b65cb7f6dde18ca2839f5d8",
+          "title": "Sväté Písmo (Katolícky Preklad)"
+        }
+      }
+    },
+    "th": {
+      "title": "ภาษาไทย",
+      "translations": {
+        "tkjv": {
+          "file_name": "TKJV.sqlite",
+          "sha256": "b053589c2d8f760556e5df2018d77b2bfda6c658e79835046d5e173ab2d341d9",
+          "title": "พระคัมภีร์ภาษาไทยฉบับ KJV"
+        }
+      }
+    },
+    "tl": {
+      "title": "Tagalog",
+      "translations": {
+        "ang": {
+          "file_name": "Ang_Dating_Biblia.sqlite",
+          "sha256": "226b74a02323f56bb146e10e522e186d2387bbe2e3082b74297f1c97ce420673",
+          "title": "Ang Dating"
+        }
+      }
+    },
+    "uma": {
+      "title": "Uma (Indonesia)",
+      "translations": {
+        "uma": {
+          "file_name": "Uma_Version.sqlite",
+          "sha256": "59ea6b77e246790794172cae0ecf70a34e59b602f0791d19789763faad12e368",
+          "title": "Uma Version"
+        }
+      }
+    }
+  },
+  "songs": {
+    "ar": {
+      "file_name": "songs_ar.sqlite",
+      "sha256": "2113f239e2c470d4d464f08e21008a7f77fd001bc01ebea3f6857852c2708712",
+      "title": "Arabic"
+    },
+    "de": {
+      "file_name": "songs_de.sqlite",
+      "sha256": "bff85ee11f7f7d667cd2867a639f59f15958d5df6ac0eeedf4da7cc4facd8165",
+      "title": "Deutsch"
+    },
+    "en": {
+      "file_name": "songs_en.sqlite",
+      "sha256": "8a5e862f0ce651a9ae8cc93c938b0bb5059f2380ac445096a346480e928bb045",
+      "title": "English"
+    },
+    "fi": {
+      "file_name": "songs_fi.sqlite",
+      "sha256": "601ac772d9a9a685059456186437aae128d5da30573ff08595c7f8752613a851",
+      "title": "Suomi"
+    },
+    "hu": {
+      "file_name": "songs_hu.sqlite",
+      "sha256": "1cd693f2c829eb6274dfce606cc52478cfdc6a05f00e07bdd20d0f72a18167e4",
+      "title": "Magyar"
+    },
+    "ru": {
+      "file_name": "songs_ru.sqlite",
+      "sha256": "1416c3e6b551c90c4e4cb797df368a617b7a5cfec814f0fad8882ab21024aee0",
+      "title": "Русский"
+    },
+    "th": {
+      "file_name": "songs_th.sqlite",
+      "sha256": "1066596a3941d2bcb1fad83ae81ccce146ea10ce73be57615e55f7cb02e2ceb7",
+      "title": "ภาษาไทย"
+    }
+  },
+  "themes": {
+    "bb": {
+      "file_name": "BlueBurst.otz",
+      "sha256": "6105626b6da8b358adb8eedb9da986f1149667a1bff324f8bd4549345d2fad56",
+      "thumbnail": "BlueBurst.png",
+      "title": "Blue Burst"
+    },
+    "cl": {
+      "file_name": "Clouds.otz",
+      "sha256": "d28eafd838be33df58e7ff160d29b0c3ec7024927b62fa2308aa5b259f31d5ea",
+      "thumbnail": "Clouds.png",
+      "title": "Clouds"
+    },
+    "geop": {
+      "file_name": "Geo_Purple.otz",
+      "sha256": "aee81f16183122d14c0ca9f7582d3adbe1eb8c932c635885fcfb2c50fc36c1aa",
+      "thumbnail": "Geo_Purple.png",
+      "title": "Geo Purple"
+    },
+    "mot": {
+      "file_name": "Moss_on_tree.otz",
+      "sha256": "b3b9d286610f7639fedf21a04670f011801f79c06004d7d4295c947a0c584462",
+      "thumbnail": "Moss_on_tree.png",
+      "title": "Moss on tree"
+    },
+    "swt": {
+      "file_name": "Sea_with_trees.otz",
+      "sha256": "66a9c831fa8c6805ba22502f2544469a717bf74c1f2a206a1b45e09b95493eed",
+      "thumbnail": "Sea_with_trees.png",
+      "title": "Sea with trees"
+    },
+    "wt": {
+      "file_name": "Wheat.otz",
+      "sha256": "63fde97b7d35722c8fe06e1cfe8236e6d212d944d43c04f6b77f5156b83f5a3f",
+      "thumbnail": "Wheat.png",
+      "title": "Wheat"
+    }
+  }
+}
