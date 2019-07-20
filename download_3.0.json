@@ -4,7 +4,7 @@
     "base_url": "https://get.openlp.org/ftw/",
     "bibles_dir": "bibles/v2",
     "songs_dir": "songs/v7",
-    "themes_dir": "themes"
+    "themes_dir": "themes/v2"
   },
   "bibles": {
     "af": {
@@ -288,37 +288,37 @@
   "themes": {
     "bb": {
       "file_name": "BlueBurst.otz",
-      "sha256": "6105626b6da8b358adb8eedb9da986f1149667a1bff324f8bd4549345d2fad56",
+      "sha256": "1cbac0575179eb6d66787bc9b87555427c134d09dbf3c048b9fd1e8084394142",
       "thumbnail": "BlueBurst.png",
       "title": "Blue Burst"
     },
     "cl": {
       "file_name": "Clouds.otz",
-      "sha256": "d28eafd838be33df58e7ff160d29b0c3ec7024927b62fa2308aa5b259f31d5ea",
+      "sha256": "09ac4eb181ed05cce38411926d3cce7b4f13876e7cb299f00c546bfd7b57b7c3",
       "thumbnail": "Clouds.png",
       "title": "Clouds"
     },
     "geop": {
       "file_name": "Geo_Purple.otz",
-      "sha256": "aee81f16183122d14c0ca9f7582d3adbe1eb8c932c635885fcfb2c50fc36c1aa",
+      "sha256": "7ee52ec0e5990a1cc6145b8d223f312ea217af1e6f098b95b124116d0550f433",
       "thumbnail": "Geo_Purple.png",
       "title": "Geo Purple"
     },
     "mot": {
       "file_name": "Moss_on_tree.otz",
-      "sha256": "b3b9d286610f7639fedf21a04670f011801f79c06004d7d4295c947a0c584462",
+      "sha256": "96c720fe59a3501baac2603cbb33d83a9ef43d8e4d68f40f2e433d074c808fbe",
       "thumbnail": "Moss_on_tree.png",
       "title": "Moss on tree"
     },
     "swt": {
       "file_name": "Sea_with_trees.otz",
-      "sha256": "66a9c831fa8c6805ba22502f2544469a717bf74c1f2a206a1b45e09b95493eed",
+      "sha256": "e3f64549bf372bde43f14c1346c8296707769e3d3cecb0ce37391a16ef989e47",
       "thumbnail": "Sea_with_trees.png",
       "title": "Sea with trees"
     },
     "wt": {
       "file_name": "Wheat.otz",
-      "sha256": "63fde97b7d35722c8fe06e1cfe8236e6d212d944d43c04f6b77f5156b83f5a3f",
+      "sha256": "00805ccdc62685621cc2081ff270a16b8c78ce06519952aa00843d2f53d1cecf",
       "thumbnail": "Wheat.png",
       "title": "Wheat"
     }
