@@ -3,7 +3,7 @@
   "_meta": {
     "base_url": "https://get.openlp.org/ftw/",
     "bibles_dir": "bibles",
-    "songs_dir": "songs",
+    "songs_dir": "songs/v7",
     "themes_dir": "themes"
   },
   "bibles": {
@@ -251,27 +251,27 @@
   "songs": {
     "ar": {
       "file_name": "songs_ar.sqlite",
-      "sha256": "2113f239e2c470d4d464f08e21008a7f77fd001bc01ebea3f6857852c2708712",
+      "sha256": "750e3471b7b038a233133f9777694121d83bf6b7ffea750de6d3367707005f3c",
       "title": "Arabic"
     },
     "de": {
       "file_name": "songs_de.sqlite",
-      "sha256": "bff85ee11f7f7d667cd2867a639f59f15958d5df6ac0eeedf4da7cc4facd8165",
+      "sha256": "dce40830e7c4c27d1740e74b30d69284fe754f66ce8a332576019ac5d34c1943",
       "title": "Deutsch"
     },
     "en": {
       "file_name": "songs_en.sqlite",
-      "sha256": "8a5e862f0ce651a9ae8cc93c938b0bb5059f2380ac445096a346480e928bb045",
+      "sha256": "32c3f7a4bcd1847354dc8215193f9aa90e35c4f5b23f4880353f2a91727da517",
       "title": "English"
     },
     "fi": {
       "file_name": "songs_fi.sqlite",
-      "sha256": "601ac772d9a9a685059456186437aae128d5da30573ff08595c7f8752613a851",
+      "sha256": "9315501f9dc94be515b072324466865413e0129af338e9c1cb761279d3fc1e15",
       "title": "Suomi"
     },
     "hu": {
       "file_name": "songs_hu.sqlite",
-      "sha256": "1cd693f2c829eb6274dfce606cc52478cfdc6a05f00e07bdd20d0f72a18167e4",
+      "sha256": "febc530dac346321a67daa18d0b267bfd71d543a01570f217fa63c92d2cd00b5",
       "title": "Magyar"
     },
     "ru": {
@@ -281,7 +281,7 @@
     },
     "th": {
       "file_name": "songs_th.sqlite",
-      "sha256": "1066596a3941d2bcb1fad83ae81ccce146ea10ce73be57615e55f7cb02e2ceb7",
+      "sha256": "5c5b5e63eea8f58008dd05b2582851b6875eb420ce124b77e7b3786c5981b6e5",
       "title": "ภาษาไทย"
     }
   },
