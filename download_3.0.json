@@ -2,7 +2,7 @@
   "_comments": "The most recent version should be added to http://openlp.org/files/frw/download_3.0.json",
   "_meta": {
     "base_url": "https://get.openlp.org/ftw/",
-    "bibles_dir": "bibles",
+    "bibles_dir": "bibles/v2",
     "songs_dir": "songs/v7",
     "themes_dir": "themes"
   },
@@ -12,7 +12,7 @@
       "translations": {
         "afr": {
           "file_name": "Afrikaans_Bybel.sqlite",
-          "sha256": "d4f12ebbb35bf589e791200dd2f320cf89f894b53953724edb458570f47affcf",
+          "sha256": "5d4f8b76d5cbc651124ee8f4004bc29cb3d437c87f7ce99f02f4bd7efc7aac81",
           "title": "Afrikaanse Bybel"
         }
       }
@@ -22,22 +22,22 @@
       "translations": {
         "kelh": {
           "file_name": "Ketab-EL-Hayat.sqlite",
-          "sha256": "7b5d4c46fbd77477db0503b4565f1d558f6e29cf7e7e74f2ae48fbbe14766dde",
+          "sha256": "9818df4054083d7ecf2cf83b878769d0bb9baa9b070c2d3d8efd6a759c61016b",
           "title": "Ketab EL Hayat"
         },
         "sp": {
           "file_name": "Syriac_Peshitta_NT.sqlite",
-          "sha256": "a7a1ccb205e8e0c92707344e90efbf0c8e60c8ad95eeb216c8b41ce23a231eef",
+          "sha256": "8c36ce4c375363819c5b693ecef466b05a67accc2187186b73af8a24d48e01aa",
           "title": "Syriac Peshitta"
         },
         "vd": {
           "file_name": "VanDyke-Without-Vowels.sqlite",
-          "sha256": "b3d216b92c62954da7b69c27eb2872b1163f49fa290a23acc6cb3274d1f68f56",
+          "sha256": "b3b5cd9f9ee093491bb2dc64a941e457ce9c55fb4fa61e40dbb63fb2a9c81d32",
           "title": "VanDyke Without Vowels"
         },
         "vdv": {
           "file_name": "VanDyke-With-Vowels.sqlite",
-          "sha256": "c1767d8bc2e6aff9097f63f3f9a15af134841ee3fdf40267adba3263f5a6ba0f",
+          "sha256": "890b5b9a11e4fedae3fed3e647100f6a4207749f79dcce7c5ab56320495a88f6",
           "title": "VanDyke With Vowels"
         }
       }
@@ -47,17 +47,17 @@
       "translations": {
         "csp": {
           "file_name": "Cesky_studijni_preklad.sqlite",
-          "sha256": "93885991c10d4ce71418c33b77cba7a321f7c66fe0d40edd7bd474160517d666",
+          "sha256": "2382633fd275926899b916a11682ca033636d957bf9cc710882d79d0a4e84254",
           "title": "Český Studijní Překlad"
         },
         "krl": {
           "file_name": "Kralicka_Bible_1613.sqlite",
-          "sha256": "9d9e25e3361eeb9d550aea571aad55c4320b592ed28a4fa1cf4b0dad5ee382f4",
+          "sha256": "d49117969068b7fb94c707c7fb0a141985fe1d44b53c3313bfc8831ef7501ae6",
           "title": "Kralická Bible 1613"
         },
         "prk": {
           "file_name": "Bible_Preklad_21_stoleti.sqlite",
-          "sha256": "1fad90dc62bad7d246092dc4792eb39b89f910cf4fac0efd2bd35c69fcd89acf",
+          "sha256": "888152fc2b440cf9d4604c5941c07ed45d9186879ccb5bfbd48cb18e4dad1ac1",
           "title": "Bible, Překlad 21. století"
         }
       }
@@ -67,22 +67,22 @@
       "translations": {
         "145": {
           "file_name": "Luther_1545.sqlite",
-          "sha256": "965ca4df59fc6af80472be00fb9a92e1539792b42f2f7c368d9623d057293098",
+          "sha256": "06f6e5460c49a25fad25724071e4e975331972567fac0ae35ced8bfa404bd981",
           "title": "Luther 1545"
         },
         "elb": {
           "file_name": "Elberfelder_1905.sqlite",
-          "sha256": "32cf96da94be0df237584130df7b840b82828c753db0664393d354a4c7ac246b",
+          "sha256": "68413c9d5d25818e7121e11a2c70679fe503d3858f5ad7eac8e7497600ef440a",
           "title": "Elberfelder"
         },
         "l12": {
           "file_name": "Luther_1912.sqlite",
-          "sha256": "2606b991f3254699cd236c6420b59789238118338e2778f7ed4c494861eb05ad",
+          "sha256": "013c5836195e0082507efa33ea6158085e34f267241c6f98492ffbab3920abb6",
           "title": "Luther 1912"
         },
         "mb": {
           "file_name": "Menge_Bibel.sqlite",
-          "sha256": "cad8ce0974e1b1823c8830738258941c95af2cf3a79dd3eb9e27659eb02fbdf6",
+          "sha256": "3f9ca1fe22c57566309473afaf1a62b56ca2bfbf3ddecba4bbcae106ad92b413",
           "title": "Menge"
         }
       }
@@ -92,12 +92,12 @@
       "translations": {
         "asv": {
           "file_name": "ASV.sqlite",
-          "sha256": "064637d15c1dd9940682460b8040f6fe1d025dd8f40637ca13c5fbdb14012d09",
+          "sha256": "950800498cbb152ae13cb1e2ac74aa91d6935e3583114c080c3456d258b9f501",
           "title": "American Standard Version"
         },
         "kjv": {
           "file_name": "KJV.sqlite",
-          "sha256": "09e2d9d68777c75acc8b587b6be1f5253f86274774529e57a2902c14d9802d3d",
+          "sha256": "677e2332881ce1c7216afc0a3eb2ff94c64096c0f3d3aba35359d5954a1dbeea",
           "title": "King James Version"
         }
       }
@@ -107,7 +107,7 @@
       "translations": {
         "esb": {
           "file_name": "Esperanto_Bible.sqlite",
-          "sha256": "58c716f18382be192a077cb85934720315847e6b168340784df896d365ca495b",
+          "sha256": "4fef17c9eb0d02560b9750fea8b470237db5bd0b699e2a86234168e00e08790f",
           "title": "Esperanto Biblio"
         }
       }
@@ -117,7 +117,7 @@
       "translations": {
         "lse": {
           "file_name": "Las_Sagradas_Escrituras.sqlite",
-          "sha256": "c6654ef283f1139ba2b8d36238f38ad88a31b71599c79be3fad88db4350de939",
+          "sha256": "23c58cbaf608f36b0f0415fddfb01144c7ed10914f0e0116f302e92a28cbc64c",
           "title": "Las Sagradas Escrituras"
         }
       }
@@ -127,17 +127,17 @@
       "translations": {
         "fi3338": {
           "file_name": "FI_33_38_OpenLP.sqlite",
-          "sha256": "3a3dd8b5ec16a7cf5547f13b9ce4490e83ddc032b87b9a0efb383da6ab35fd70",
+          "sha256": "a91c51ff21aed03747162bedd38456af491e11436b7875ab231a95f755caa826",
           "title": "33/38 - Vanha kirkkoraamattu"
         },
         "fi92": {
           "file_name": "FI_92_OpenLP.sqlite",
-          "sha256": "c0f0b0de574c65db60daa88b5f54d514901ae7bc86cf9933478d76575016a050",
+          "sha256": "23b56c247fbb04e31d069e1ddf8231c90eb6ab3547efb07c14065be674b2f551",
           "title": "92 - Uusi kirkkoraamattu"
         },
         "firk": {
           "file_name": "FI_Raamattu_Kansalle_OpenLP.sqlite",
-          "sha256": "6982cb2b5b1061611211e62e8910289ff8702f934ddf785b7978524d3f8f9544",
+          "sha256": "eac989138d88ba15fb5a107f8a36a768313706fb080bb1683639b46a201dc50f",
           "title": "Raamattu Kansalle -käännös"
         }
       }
@@ -147,7 +147,7 @@
       "translations": {
         "lsb": {
           "file_name": "Louis_Segon_Bible.sqlite",
-          "sha256": "8e548c384f92ee54ea46930a1547fcc574f039c3f8eaa918707f5692ceafc069",
+          "sha256": "ad13ffe1c24c8b36a98ecc0f22ab520a69a3f35243721a78a687e042d3fc6534",
           "title": "Louis Segon"
         }
       }
@@ -157,7 +157,7 @@
       "translations": {
         "ma": {
           "file_name": "Magyar_jford_t_s.sqlite",
-          "sha256": "5509b117616e64da2486b71c344a4b58ec87634d29b0ddda528185fae19779d2",
+          "sha256": "513e79c4266c3dc09b1aebc041bd568959ef1549f6fea71c4c4af787cf299a9f",
           "title": "Magyar Újfordítású"
         }
       }
@@ -167,7 +167,7 @@
       "translations": {
         "sta": {
           "file_name": "Statenvertaling.sqlite",
-          "sha256": "b2a699caff81c81ae11b705b09bfc85da832953ae28d838bef536e8a6c406822",
+          "sha256": "0ff1bf9e56759663728e98c33a12afdc579c881bfc0805bc3f5f84d92ea62560",
           "title": "Statenvertaling"
         }
       }
@@ -177,12 +177,12 @@
       "translations": {
         "no1921": {
           "file_name": "Norsk-SMB-1921.sqlite",
-          "sha256": "a7afc5b77cd54eb11c9b7d20813d56e164e935cf69ee0b38ae4126ce809a5fcd",
+          "sha256": "b95cf86ab233ccc259173642e36d3252b5c90feb4b3df2d178703112aa6920ac",
           "title": "Studentmållagsbibelen (1921)"
         },
         "no1930": {
           "file_name": "Norsk-NB-1930.sqlite",
-          "sha256": "641a3b52ed7fb8b2027703a1f7241577929ac97f91cf18c6e0ad9c235032b9f8",
+          "sha256": "313cb4a82e6c1914de1073e09b683b5aa7641b95d45d01a90b1d4f3301e078fa",
           "title": "Norsk bokmål (1930)"
         }
       }
@@ -192,7 +192,7 @@
       "translations": {
         "jo": {
           "file_name": "Jo_o_Ferreira_de_Almeida_Atualizada.sqlite",
-          "sha256": "ada5f15802a5c80cdf27ef188858d4c64e2a5d92b158c4bec7c5ca54e7cddcb1",
+          "sha256": "d8b23408400d1f957babfee15665f3926f33c27621e2dfeaea178496497830ca",
           "title": "João Ferreira de Almeida Atualizada"
         }
       }
@@ -202,7 +202,7 @@
       "translations": {
         "rst": {
           "file_name": "RST.sqlite",
-          "sha256": "86cf69addcbd93ea53842916bc7b90c77154415880b04c933679ea9dac1cf976",
+          "sha256": "7b05e2c73380d06f24b630d2a15baadacfb46e3aa6ec7ce6a9e27cb3b3672a3e",
           "title": "Синодальный перевод"
         }
       }
@@ -212,7 +212,7 @@
       "translations": {
         "ssv": {
           "file_name": "Sv_t_P_smo_Katol_cky_Preklad.sqlite",
-          "sha256": "2d9ed24fe3eece4a20ecfb0228a92729d5d681bb8b65cb7f6dde18ca2839f5d8",
+          "sha256": "5e7ac017dc43fac5dfb63daa35cd7edeeb736ea66016b47a86fc8d202225ca46",
           "title": "Sväté Písmo (Katolícky Preklad)"
         }
       }
@@ -222,7 +222,7 @@
       "translations": {
         "tkjv": {
           "file_name": "TKJV.sqlite",
-          "sha256": "b053589c2d8f760556e5df2018d77b2bfda6c658e79835046d5e173ab2d341d9",
+          "sha256": "e87fdf698b30188a4abb9d378e9fb357f46e2bb78149a1bfee4329a30f4ee1e6",
           "title": "พระคัมภีร์ภาษาไทยฉบับ KJV"
         }
       }
@@ -232,7 +232,7 @@
       "translations": {
         "ang": {
           "file_name": "Ang_Dating_Biblia.sqlite",
-          "sha256": "226b74a02323f56bb146e10e522e186d2387bbe2e3082b74297f1c97ce420673",
+          "sha256": "fada86e1b8ab48cda68d9d28d887d27418036dbbd966a9057425c457f51b33dc",
           "title": "Ang Dating"
         }
       }
@@ -242,7 +242,7 @@
       "translations": {
         "uma": {
           "file_name": "Uma_Version.sqlite",
-          "sha256": "59ea6b77e246790794172cae0ecf70a34e59b602f0791d19789763faad12e368",
+          "sha256": "e96e804ba1e2c1cf60f53f5f6ea538b9b60b1f95b1f660d93526cb4515425824",
           "title": "Uma Version"
         }
       }
