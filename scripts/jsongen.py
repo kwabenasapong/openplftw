@@ -54,7 +54,7 @@ def main():
     """
     cfg_file_path = Path('..', CONFIG_FILE_NAME)
     if not cfg_file_path.exists():
-        print(f'Can\'t find {cfg_file_path}. You need to run hashgen.py from the scripts directory.')
+        print(f'Can\'t find {cfg_file_path}. You need to run jsongen.py from the scripts directory.')
         return False
 
     with cfg_file_path.open(mode='r', encoding='utf-8') as config_file:
