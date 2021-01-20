@@ -207,6 +207,21 @@
         }
       }
     },
+    "se": {
+      "title": "Svenska",
+      "translations": {
+        "sfb1": {
+          "file_name": "Svenska_Folkbibeln_1998.sqlite",
+          "sha256": "751f984a4441e7c76c80a3547822b48b027001a502d0eefb7c0b3b35c70724b9",
+          "title": "Svenska Folkbibeln 1998"
+        },
+        "sfb2": {
+          "file_name": "Svenska_Folkbibeln_2015.sqlite",
+          "sha256": "6d58532bc90eb4409b79e7404a787f7850916638859c4ed7505286eaa34c0153",
+          "title": "Svenska Folkbibeln 2015"
+        }
+      }
+    },
     "sv": {
       "title": "Slovak",
       "translations": {
